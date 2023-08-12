@@ -1,0 +1,262 @@
+.navColorF {
+    background: black;
+}
+
+.webD_logo {
+    max-width: 30%;
+    transform: scale(2.1);
+    margin-left: 50%;
+}
+
+
+.navUl_r {
+    margin-left: 40%;
+}
+
+.btnAso {
+    margin-right: -15%;
+}
+
+.headerAll {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    bottom: 0;
+}
+
+.header__allContent {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    z-index: 100;
+}
+
+.header__allContent_A_Piece_all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    /* border-bottom: 2px solid black; */
+
+}
+
+.header__allContent_h1 {
+    font-size: 50px;
+    color: white;
+    border-bottom: 2px solid;
+    margin: 40px;
+}
+
+.header__allContent_A_Piece1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: black;
+    background: white;
+    border-radius: 5px;
+}
+
+.About__WebD {
+    font-size: 30px;
+}
+
+.section1 {
+    margin: 100px 0 100px 0;
+}
+
+.section1__contentAll_question1_left_h3 {
+    margin-bottom: 25px;
+    border-bottom: 2px solid gray;
+}
+
+.section1__contentAll_question1_right {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.section1__contentAll_question1_right_txt1 {
+    font-size: 18px;
+}
+
+.section1__contentAll_question1_right_img {
+    width: 40%;
+}
+
+.section2__contentAll_question2_top_img {
+    width: 100%;
+}
+
+.section2__contentAll_question2_bottom {
+    font-size: 18px;
+    padding: 30px;
+}
+
+.section3__contentAll_question3 {
+    display: flex;
+    gap: 50px;
+}
+
+.section3__contentAll_question3_right_h4 {
+    padding: 15px;
+    border: 2px solid black;
+    max-width: max-content;
+    box-shadow: 0 0 15px 5px #cdc9c9;
+}
+
+.section3__contentAll_question3_right_ol {
+    font-size: 25px;
+}
+
+
+.section3__contentAll_question3_right_ol img {
+    width: 5%;
+}
+
+/*    */
+
+.slider_sliderAllF {
+    height: 400px;
+}
+
+.sliderAllF__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    background: url(../img/webDev\ logo.jpg) center;
+    color: white;
+}
+
+
+.slider__controls {
+    display: flex;
+    justify-content: space-between;
+}
+
+.slider__controls * {
+    z-index: 1;
+    margin-top: -400px;
+    font-size: 20px;
+}
+
+
+.sliderAllF__item img {
+    width: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.slider__Forward {
+    background: green;
+}
+
+.slider__Back {
+    background: red;
+}
+
+/*  */
+
+.footer__block1 {
+    left: 157px;
+    top: 1893px;
+    margin-top: 87px;
+}
+
+.footer__p1 {
+    width: 259px;
+    height: 21px;
+    left: 1px;
+    top: 94px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #263238;
+}
+
+
+.footer__p2 {
+    width: 317px;
+    height: 54px;
+    left: 1px;
+    top: 123px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 149.19%;
+    color: #263238;
+
+}
+
+.footer__block2 {
+    margin-top: 65px;
+}
+
+.footer__all {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__block2-p1 {
+    width: 85px;
+    height: 28px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #263238;
+}
+
+.footer__block2-p2 {
+    width: 269px;
+    height: 81px;
+    left: 365px;
+    top: 94px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 149.19%;
+    color: #263238;
+
+}
+
+.bottom-part {
+    height: 64px;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-part__subtitle {
+    height: 21px;
+    left: 530px;
+    top: 22px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.bottom__p-text {
+    width: 1125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec {
+    border: none;
+}
+
+.footer__block3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
